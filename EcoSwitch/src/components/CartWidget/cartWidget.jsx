@@ -1,7 +1,8 @@
 import React from "react";
 
 export const CartWidget = () => {
-  return <div>5🛒
-   
+  return <div>5🛒 
+
      </div>;
 };
+  
